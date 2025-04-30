@@ -13,7 +13,7 @@
 <br>
 <p align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=breathe-blue&theme=react&hide_border=true&include_all_commits=false&count_private=false" width="385"/>    
-  <img src="https://nirzak-streak-stats.vercel.app/?user=breathe-blue&theme=react&hide_border=true" width="420" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=breathe-blue&theme=tokyonight&hide_border=true" width="420" />
 </p>
 
 
