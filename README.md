@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Blue
 👨‍💻 Engineer with passion for locational intelligence and analytics <br>
-🤖 Works with GenAI and ML to uncover patterns, optimize workflows, and drive innovation<br>
+🤖 Integrate GenAI and ML to uncover patterns, optimize workflows, and drive innovation<br>
 🌐 Build web applications and dashboards to stay consistent <br>
 
 📬 Let's Connect!<br>
