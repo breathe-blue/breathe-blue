@@ -7,7 +7,7 @@
 🔗 LinkedIn : www.linkedin.com/in/m-chingthianhoih<br>
 🌎 Portfolio (Coming Soon!)<br>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
